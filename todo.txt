@@ -1,0 +1,3 @@
+- should be interactive with 3 locale, achieve using i18n
+- should have admin panel to interact with customers
+- must have record system for analysis
